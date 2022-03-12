@@ -47,6 +47,9 @@ SuperBadge | Details
 [<img align="left" alt="HADOOP" height="35px" src="https://user-images.githubusercontent.com/61352259/158017852-cecab3cc-4d45-44e9-9574-3a5742ec1565.png" />][myprofile]
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 #### 🛠 Softwares I Use : 
 
@@ -54,14 +57,6 @@ SuperBadge | Details
 <a href="https://code.visualstudio.com/"><img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/61352259/157987628-1d0fb5e5-eac9-47d6-8e65-1c7615c37c13.png" /> </a>
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 
-<br />
-
-<br/>
-<br />
-
-
-
-<br/>
 
 <br/>
 <br />
