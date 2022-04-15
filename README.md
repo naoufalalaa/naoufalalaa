@@ -53,21 +53,30 @@ SuperBadge | Details
 
 #### 🛠 Softwares I Use : 
 
+<div align="center">
+
+
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
 <a href="https://code.visualstudio.com/"><img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/61352259/157987628-1d0fb5e5-eac9-47d6-8e65-1c7615c37c13.png" /> </a>
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 
-
+</div>
 <br/>
 <br />
 
 ---
 
 ## 💳 Github Stats
+
+<div align="center">
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=naoufalalaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoufalalaa&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=naoufalalaa&row=1&column=7&no-frame=true&margin-w=15)](https://github.com/naoufalalaa)
+  
+</div>
 
 
 ---
