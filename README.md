@@ -23,8 +23,6 @@ SuperBadge | Details
 <img src="https://user-images.githubusercontent.com/61352259/158017299-555ce434-f69b-45d7-8f96-28016674a278.png" width="100px" /> | `Business Administration Specialist`
 
 
-
-[<img align="right" src="https://user-images.githubusercontent.com/61352259/157985935-1eed050d-ae3d-4f01-9210-a85144f094db.gif" alt="Coder GIF" height="280">][myprofile]
 <br/>
 
 #### ⚙ Languages and Tools I use :
