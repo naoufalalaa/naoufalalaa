@@ -15,52 +15,19 @@
 #### ⚙ Rank & badges on trailhead :
 Rank | Details
 ------------ | -------------
-<img src="https://user-images.githubusercontent.com/61352259/158017244-9368aae0-3d11-4989-bb93-6b5b83165489.png" width="150px" /> | `Badges > 28 Points 36.000`
+<img src="https://user-images.githubusercontent.com/61352259/180158775-09038eb7-76a8-4722-a1b5-9b86aa2ce25a.png" width="150px" /> | `Badges > 108 Points 150.000`
 
-SuperBadge | Details
+SuperbadgesX7 | Details
 ------------ | -------------
-<img src="https://user-images.githubusercontent.com/61352259/158017294-d8a68ba2-dd7b-442c-811d-796bdc2a96ff.png" width="100px" /> | `Lightning Experience Reports - Dashboards Specialist`
-<img src="https://user-images.githubusercontent.com/61352259/158017299-555ce434-f69b-45d7-8f96-28016674a278.png" width="100px" /> | `Business Administration Specialist`
-
-
-<br/>
-
-#### ⚙ Languages and Tools I use :
-
-[<img align="left" alt="Salesforce" width="33px" src="https://user-images.githubusercontent.com/61352259/157987825-cef396f0-87cb-4815-af50-487b8c467022.png" />][myprofile]
-[<img align="left" alt="JavaScript" width="25px" src="https://user-images.githubusercontent.com/61352259/158017747-ff44b02b-715d-4ce4-8e3b-23537e520215.png" />][myprofile]
-[<img align="left" alt="php" width="35px" src="https://user-images.githubusercontent.com/61352259/158017699-07bc394d-176b-49cc-b954-25c46e8b3a83.png" />][myprofile]
-[<img align="left" alt="CSS3" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/css.svg" />][myprofile]
-[<img align="left" alt="java" width="33px" src="https://user-images.githubusercontent.com/61352259/157988288-613ccf29-9775-4a7c-ba38-b94af2c8b31d.png" />][myprofile]
-[<img align="left" alt="Python" width="28px" src="https://user-images.githubusercontent.com/61352259/157987929-dd7beead-a60d-4ebf-bbcf-9a16e4dcf3c8.png" />][myprofile]
-<br/>
-<br/>
-[<img align="left" alt="React" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/react.svg" />][myprofile]
-[<img align="left" alt="spring" height="35px" src="https://user-images.githubusercontent.com/61352259/157988553-cf56a60b-68e0-4ab5-8874-816198ba51b6.png" />][myprofile]
-[<img align="left" alt="tailwindcss" width="33px" src="https://mridul2820.github.io/github-assets/assets/tech/tailwindcss.svg" />][myprofile]
-[<img align="left" alt="Nodejs" width="33px" src="https://user-images.githubusercontent.com/61352259/157988173-0bc344b3-bfa4-4dbc-b068-103c5d12f816.png" />][myprofile]
-<br/>
-<br/>
-[<img align="left" alt="mongodb" height="30px" src="https://user-images.githubusercontent.com/61352259/157988039-9730c8ca-9c94-42db-842a-732cd0d9f06e.png" />][myprofile]
-[<img align="left" alt="HADOOP" height="35px" src="https://user-images.githubusercontent.com/61352259/158017852-cecab3cc-4d45-44e9-9574-3a5742ec1565.png" />][myprofile]
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png" width="80px" /> |  **Apex Specialist**
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_lwc_specialist/0b422a78e019b08aa699dc76b48cc7e8_badge.png" width="80px" /> | **Lightning Web Components Specialist**
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_lightning_platform_app_builder/2c0777d1847dfb7dcb0430a20b7c1538_badge.png" width="75px" /> | **App Customization Specialist**
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_security/2cb1e61a5ef594182a9a6a0b26862b5f_badge.png" width="75px" /> | **Security Specialist**
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_process_automation/575dc4f610559227f8617cc4d08c5268_badge.png" width="75px" /> | **Process Automation Specialist**
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-lex-rd/e4f8cec0ddd1f90075424aa2c8b41d68_badge.png" width="75px" /> | **Lightning Experience Reports & Dashboards Specialist**
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_business_specialist/c7717008150574ed92fa7f5ea8d9d213_badge.png" width="75px" /> | **Business Administration Specialist**
 
 <br/>
-<br/>
-<br/>
-<br/>
-
-#### 🛠 Softwares I Use : 
-
-<div align="center">
-
-
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/61352259/157987628-1d0fb5e5-eac9-47d6-8e65-1c7615c37c13.png" /> </a>
-<a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
-
-</div>
-<br/>
-<br />
 
 ---
 
