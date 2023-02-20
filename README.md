@@ -20,33 +20,8 @@ Certification | Details
 
 Rank | Details
 ------------ | -------------
-<img src="https://user-images.githubusercontent.com/61352259/180158775-09038eb7-76a8-4722-a1b5-9b86aa2ce25a.png" width="150px" /> | `Badges > 148 \ Points 150.000`!
+<img src="https://user-images.githubusercontent.com/61352259/220196685-770669b1-fe9c-47e8-9fc3-1f672f37e663.png" width="150px" /> | `Badges > 200 \ Points 270.000`!
 
-SuperbadgesX7 | Details
------------- | -------------
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png" width="80px" /> |  **Apex Specialist**
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_lwc_specialist/0b422a78e019b08aa699dc76b48cc7e8_badge.png" width="80px" /> | **Lightning Web Components Specialist**
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_lightning_platform_app_builder/2c0777d1847dfb7dcb0430a20b7c1538_badge.png" width="75px" /> | **App Customization Specialist**
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_security/2cb1e61a5ef594182a9a6a0b26862b5f_badge.png" width="75px" /> | **Security Specialist**
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_process_automation/575dc4f610559227f8617cc4d08c5268_badge.png" width="75px" /> | **Process Automation Specialist**
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge-lex-rd/e4f8cec0ddd1f90075424aa2c8b41d68_badge.png" width="75px" /> | **Lightning Experience Reports & Dashboards Specialist**
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_business_specialist/c7717008150574ed92fa7f5ea8d9d213_badge.png" width="75px" /> | **Business Administration Specialist**
-
-<br/>
-
----
-
-## 💳 Github Stats
-
-<div align="center">
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=naoufalalaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoufalalaa&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=naoufalalaa&row=1&column=7&no-frame=true&margin-w=15)](https://github.com/naoufalalaa)
-  
-</div>
 
 
 ---
