@@ -10,19 +10,7 @@
 
 - [x] 🧠 Ai, optimisation, statistics.
 - [x] 💻 Web Enthusiast.
-- [x] ☁︎&nbsp; SALESFORCE 1X Certified.
-
-#### ⚙ Certs & Rank & badges on trailhead :
-
-Certification | Details
------------- | -------------
-<img src="https://user-images.githubusercontent.com/61352259/202701899-6f930d37-4058-4758-88a0-641557879f8e.png" width="150px" /> | JAVASCRIPT DEV I
-
-Rank | Details
------------- | -------------
-<img src="https://user-images.githubusercontent.com/61352259/220196685-770669b1-fe9c-47e8-9fc3-1f672f37e663.png" width="150px" /> | `Badges > 200 \ Points 270.000`!
-
-
+- [x] ☁︎&nbsp; SALESFORCE 6X Certified.
 
 ---
 ###### Connect with me:
