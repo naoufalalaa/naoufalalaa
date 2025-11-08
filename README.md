@@ -10,7 +10,7 @@
 
 - [x] 🧠 Ai, optimisation, statistics.
 - [x] 💻 Web Enthusiast.
-- [x] ☁︎&nbsp; SALESFORCE 6X Certified.
+- [x] ☁︎&nbsp; SALESFORCE 10X Certified.
 
 ---
 ###### Connect with me:
